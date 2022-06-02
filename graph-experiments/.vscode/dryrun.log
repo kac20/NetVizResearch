@@ -1,0 +1,24 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/kchui/Desktop/DataVizResearch/graph-experiments'
+/Applications/CMake.app/Contents/bin/cmake -S/Users/kchui/Desktop/DataVizResearch/graph-experiments -B/Users/kchui/Desktop/DataVizResearch/graph-experiments --check-build-system CMakeFiles/Makefile.cmake 0
+/Applications/CMake.app/Contents/bin/cmake -E cmake_progress_start /Users/kchui/Desktop/DataVizResearch/graph-experiments/CMakeFiles /Users/kchui/Desktop/DataVizResearch/graph-experiments//CMakeFiles/progress.marks
+/Library/Developer/CommandLineTools/usr/bin/make -s -f CMakeFiles/Makefile2 all
+make[1]: Entering directory `/Users/kchui/Desktop/DataVizResearch/graph-experiments'
+/Library/Developer/CommandLineTools/usr/bin/make -s -f CMakeFiles/graph_viz_experiments.dir/build.make CMakeFiles/graph_viz_experiments.dir/depend
+ 
+make[2]: Entering directory `/Users/kchui/Desktop/DataVizResearch/graph-experiments'
+cd /Users/kchui/Desktop/DataVizResearch/graph-experiments && /Applications/CMake.app/Contents/bin/cmake -E cmake_depends "Unix Makefiles" /Users/kchui/Desktop/DataVizResearch/graph-experiments /Users/kchui/Desktop/DataVizResearch/graph-experiments /Users/kchui/Desktop/DataVizResearch/graph-experiments /Users/kchui/Desktop/DataVizResearch/graph-experiments /Users/kchui/Desktop/DataVizResearch/graph-experiments/CMakeFiles/graph_viz_experiments.dir/DependInfo.cmake --color=
+make[2]: Leaving directory `/Users/kchui/Desktop/DataVizResearch/graph-experiments'
+/Library/Developer/CommandLineTools/usr/bin/make -s -f CMakeFiles/graph_viz_experiments.dir/build.make CMakeFiles/graph_viz_experiments.dir/build
+ 
+make[2]: Entering directory `/Users/kchui/Desktop/DataVizResearch/graph-experiments'
+/Applications/CMake.app/Contents/bin/cmake -E cmake_echo_color --switch= --green --progress-dir=/Users/kchui/Desktop/DataVizResearch/graph-experiments/CMakeFiles --progress-num=1 "Building CXX object CMakeFiles/graph_viz_experiments.dir/graph_viz_experiments.cpp.o"
+/Library/Developer/CommandLineTools/usr/bin/c++  -isystem /Users/kchui/Desktop/DataVizResearch/OGDF/include -isystem /Users/kchui/Desktop/DataVizResearch/OGDF/include/coin -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -MD -MT CMakeFiles/graph_viz_experiments.dir/graph_viz_experiments.cpp.o -MF CMakeFiles/graph_viz_experiments.dir/graph_viz_experiments.cpp.o.d -o CMakeFiles/graph_viz_experiments.dir/graph_viz_experiments.cpp.o -c /Users/kchui/Desktop/DataVizResearch/graph-experiments/graph_viz_experiments.cpp
+/Applications/CMake.app/Contents/bin/cmake -E cmake_echo_color --switch= --green --bold --progress-dir=/Users/kchui/Desktop/DataVizResearch/graph-experiments/CMakeFiles --progress-num=2 "Linking CXX executable graph_viz_experiments"
+/Applications/CMake.app/Contents/bin/cmake -E cmake_link_script CMakeFiles/graph_viz_experiments.dir/link.txt --verbose=
+make[2]: Leaving directory `/Users/kchui/Desktop/DataVizResearch/graph-experiments'
+/Applications/CMake.app/Contents/bin/cmake -E cmake_echo_color --switch= --progress-dir=/Users/kchui/Desktop/DataVizResearch/graph-experiments/CMakeFiles --progress-num=1,2 "Built target graph_viz_experiments"
+make[1]: Leaving directory `/Users/kchui/Desktop/DataVizResearch/graph-experiments'
+/Applications/CMake.app/Contents/bin/cmake -E cmake_progress_start /Users/kchui/Desktop/DataVizResearch/graph-experiments/CMakeFiles 0
+make: Leaving directory `/Users/kchui/Desktop/DataVizResearch/graph-experiments'
+ 

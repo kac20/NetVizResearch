@@ -1,0 +1,851 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" baseProfile="full" viewBox="13 13 383 384">
+	<g>
+		<g>
+			<polygon points="36.5,250.659,33.4262,250.997,33.6288,249.511," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M17,248 L36.5,250.659" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="313.886,42.5,313.001,39.5372,314.499,39.469," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M313,23 L313.886,42.5" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="133.5,321.886,136.463,321.001,136.531,322.499," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M153,321 L133.5,321.886" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="108.5,100.545,105.414,100.747,105.683,99.2709," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M89,97 L108.5,100.545" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="19.5,118.553,21.7205,116.4,22.4721,117.699," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M36,109 L19.5,118.553" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="51.5,49.4722,48.5491,48.5478,49.3312,47.2679," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M36,40 L51.5,49.4722" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="36,88.5,35.25,91.5,36.75,91.5," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M36,109 L36,91.5" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="33.5,170.395,30.6537,171.603,30.4197,170.122," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M17,173 L33.5,170.395" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="51.5,118.472,48.5491,117.548,49.3312,116.268," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M36,109 L51.5,118.472" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="115.5,250.659,112.426,250.997,112.629,249.511," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M96,248 L115.5,250.659" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="207.5,321.114,204.537,321.999,204.469,320.501," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M188,322 L207.5,321.114" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="136.344,99.5,137.848,96.7984,138.943,97.8243," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M149,86 L136.344,99.5" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="216.5,250,213.5,250.75,213.5,249.25," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M197,250 L216.5,250" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="224.5,102.881,221.468,103.487,221.539,101.989," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M206,102 L224.5,102.881" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="33.5,155.868,30.4647,156.46,30.5436,154.962," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M17,155 L33.5,155.868" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="204.5,36.3182,201.408,36.2524,201.803,34.8053," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M185,31 L204.5,36.3182" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="119.5,208.568,122.592,208.502,122.259,209.964," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M139,213 L119.5,208.568" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="285,94.5,284.25,97.5,285.75,97.5," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M285,114 L285,97.5" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="111.5,165.432,108.408,165.498,108.741,164.036," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M92,161 L111.5,165.432" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="293.5,210.114,290.537,210.999,290.469,209.501," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M274,211 L293.5,210.114" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="41.5,250.773,44.4198,249.754,44.5556,251.248," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M61,249 L41.5,250.773" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="111.659,47.5,110.511,44.6288,111.997,44.4262," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M109,28 L111.659,47.5" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="186.5,103.773,189.42,102.754,189.556,104.248," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M206,102 L186.5,103.773" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g />
+		<g>
+			<polygon points="247.5,101.217,244.576,102.224,244.446,100.73," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M227,103 L247.5,101.217" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="320.886,111.5,320.001,108.537,321.499,108.469," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M320,92 L320.886,111.5" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="93.5,357.114,90.5372,357.999,90.469,356.501," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M74,358 L93.5,357.114" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="57.5,212.432,54.4084,212.498,54.7408,211.036," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M38,208 L57.5,212.432" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g />
+		<g>
+			<polygon points="304.5,286,307.5,285.25,307.5,286.75," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M324,286 L304.5,286" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="287.5,163.886,290.463,163.001,290.531,164.499," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M307,163 L287.5,163.886" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="278.5,249.886,281.463,249.001,281.531,250.499," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M298,249 L278.5,249.886" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="133.5,357.886,136.463,357.001,136.531,358.499," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M153,357 L133.5,357.886" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="36.5,286,33.5,286.75,33.5,285.25," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M17,286 L36.5,286" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="126.5,20.125,124.072,22.04,123.456,20.6722," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M109,28 L126.5,20.125" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="19.5,209.762,22.4154,208.731,22.5576,210.224," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M38,208 L19.5,209.762" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="19.5,49.5526,21.7205,47.4005,22.4721,48.6986," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M36,40 L19.5,49.5526" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="73.5,163.643,76.3638,162.476,76.5759,163.961," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M92,161 L73.5,163.643" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="218.5,210.674,221.378,209.542,221.572,211.03," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M239,208 L218.5,210.674" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g />
+		<g>
+			<polygon points="33.5,158.237,31.7644,160.796,30.7642,159.678," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M17,173 L33.5,158.237" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="135.912,104.5,138.33,106.427,137.138,107.339," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M147,119 L135.912,104.5" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="194.5,250.114,191.537,250.999,191.469,249.501," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M175,251 L194.5,250.114" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="76.5,286,79.5,285.25,79.5,286.75," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M96,286 L76.5,286" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="190.5,357.886,193.463,357.001,193.531,358.499," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M210,357 L190.5,357.886" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g />
+		<g>
+			<polygon points="38.5,110.528,41.4509,111.452,40.6688,112.732," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M54,120 L38.5,110.528" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="384.114,25.5,384.999,28.4628,383.501,28.531," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M385,45 L384.114,25.5" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="278,42.5,277.25,39.5,278.75,39.5," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M278,23 L278,39.5" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="350.5,210.114,347.537,210.999,347.469,209.501," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M331,211 L350.5,210.114" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="114.5,208.227,111.58,209.246,111.444,207.752," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M95,210 L114.5,208.227" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="36,19.5,35.25,22.5,36.75,22.5," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M36,40 L36,22.5" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="247.5,321.886,250.463,321.001,250.531,322.499," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M267,321 L247.5,321.886" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="352.5,249.114,349.537,249.999,349.469,248.501," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M333,250 L352.5,249.114" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="242.886,42.5,242.001,39.5372,243.499,39.469," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M242,23 L242.886,42.5" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g />
+		<g>
+			<polygon points="264.5,286,261.5,286.75,261.5,285.25," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M245,286 L264.5,286" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="196.5,212.773,199.42,211.754,199.556,213.248," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M216,211 L196.5,212.773" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="120.5,250.773,123.42,249.754,123.556,251.248," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M140,249 L120.5,250.773" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="361.5,286,364.5,285.25,364.5,286.75," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M381,286 L361.5,286" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="131.5,101.891,128.47,102.51,128.535,101.012," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M111,101 L131.5,101.891" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="150.5,357.114,147.537,357.999,147.469,356.501," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M131,358 L150.5,357.114" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="361.5,163.114,358.537,163.999,358.469,162.501," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M342,164 L361.5,163.114" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="33.5,168.026,30.6806,166.756,31.6101,165.579," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M17,155 L33.5,168.026" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="187.5,31.6818,190.592,31.7476,190.197,33.1947," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M207,37 L187.5,31.6818" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g />
+		<g>
+			<polygon points="19.5,357.886,22.4628,357.001,22.531,358.499," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M39,357 L19.5,357.886" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="361.5,321.886,364.463,321.001,364.531,322.499," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M381,321 L361.5,321.886" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="93.5,321.114,90.5372,321.999,90.469,320.501," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M74,322 L93.5,321.114" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="36.5,321.114,33.5372,321.999,33.469,320.501," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M17,322 L36.5,321.114" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="207.5,286,204.5,286.75,204.5,285.25," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M188,286 L207.5,286" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="349,25.5,348.25,28.5,349.75,28.5," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M349,45 L349,28.5" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="236.5,208.326,233.622,209.458,233.428,207.97," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M216,211 L236.5,208.326" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="133.5,286,136.5,285.25,136.5,286.75," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M153,286 L133.5,286" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="190.5,165.432,187.408,165.498,187.741,164.036," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M171,161 L190.5,165.432" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="191.5,212.5,188.411,212.647,188.705,211.176," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M174,209 L191.5,212.5" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="182.5,31.3571,179.636,32.5239,179.424,31.0389," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M164,34 L182.5,31.3571" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="356.886,111.5,356.001,108.537,357.499,108.469," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M356,92 L356.886,111.5" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="238.5,248.227,235.58,249.246,235.444,247.752," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M219,250 L238.5,248.227" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="151.5,163.659,154.371,162.511,154.574,163.997," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M171,161 L151.5,163.659" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="91.5,19.25,94.5187,19.9208,93.8479,21.2625," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M109,28 L91.5,19.25" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="247.5,357.886,250.463,357.001,250.531,358.499," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M267,357 L247.5,357.886" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="361.5,357.886,364.463,357.001,364.531,358.499," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M381,357 L361.5,357.886" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="304.5,357.886,307.463,357.001,307.531,358.499," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M324,357 L304.5,357.886" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="304.5,321.886,307.463,321.001,307.531,322.499," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M324,321 L304.5,321.886" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<polygon points="247.5,163.114,244.537,163.999,244.469,162.501," stroke="#000000" stroke-width="1.000000px" />
+			<path fill="none" d=" M228,164 L247.5,163.114" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+	</g>
+	<g>
+		<rect x="311.5" y="42.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="314" y="45" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">10971</text>
+	</g>
+	<g>
+		<rect x="108.5" y="98.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="111" y="101" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">3932</text>
+	</g>
+	<g>
+		<rect x="33.5" y="14.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="36" y="17" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2353</text>
+	</g>
+	<g>
+		<rect x="361.5" y="160.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="364" y="163" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">5599</text>
+	</g>
+	<g>
+		<rect x="382.5" y="42.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="385" y="45" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2178</text>
+	</g>
+	<g>
+		<rect x="58.5" y="246.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="61" y="249" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">85236</text>
+	</g>
+	<g>
+		<rect x="378.5" y="354.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="381" y="357" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">5079</text>
+	</g>
+	<g>
+		<rect x="378.5" y="318.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="381" y="321" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1856</text>
+	</g>
+	<g>
+		<rect x="378.5" y="283.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="381" y="286" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">961</text>
+	</g>
+	<g>
+		<rect x="190.5" y="163.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="193" y="166" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">3675</text>
+	</g>
+	<g>
+		<rect x="146.5" y="83.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="149" y="86" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">5296</text>
+	</g>
+	<g>
+		<rect x="354.5" y="111.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="357" y="114" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">6883</text>
+	</g>
+	<g>
+		<rect x="346.5" y="42.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="349" y="45" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">6256</text>
+	</g>
+	<g>
+		<rect x="33.5" y="83.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="36" y="86" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">3091</text>
+	</g>
+	<g>
+		<rect x="321.5" y="354.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="324" y="357" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1017</text>
+	</g>
+	<g>
+		<rect x="264.5" y="354.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="267" y="357" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">9759</text>
+	</g>
+	<g>
+		<rect x="137.5" y="246.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="140" y="249" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">397</text>
+	</g>
+	<g>
+		<rect x="346.5" y="20.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="349" y="23" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">8031</text>
+	</g>
+	<g>
+		<rect x="207.5" y="354.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="210" y="357" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">7150</text>
+	</g>
+	<g>
+		<rect x="14.5" y="152.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="17" y="155" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">3066</text>
+	</g>
+	<g>
+		<rect x="150.5" y="354.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="153" y="357" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2040</text>
+	</g>
+	<g>
+		<rect x="93.5" y="354.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="96" y="357" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">7430</text>
+	</g>
+	<g>
+		<rect x="36.5" y="354.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="39" y="357" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">10465</text>
+	</g>
+	<g>
+		<rect x="352.5" y="246.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="355" y="249" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2908</text>
+	</g>
+	<g>
+		<rect x="33.5" y="37.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="36" y="40" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">9111</text>
+	</g>
+	<g>
+		<rect x="194.5" y="247.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="197" y="250" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">5664</text>
+	</g>
+	<g>
+		<rect x="350.5" y="207.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="353" y="210" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">4176</text>
+	</g>
+	<g>
+		<rect x="131.5" y="99.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="134" y="102" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">558</text>
+	</g>
+	<g>
+		<rect x="128.5" y="355.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="131" y="358" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">6513</text>
+	</g>
+	<g>
+		<rect x="33.5" y="106.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="36" y="109" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">405</text>
+	</g>
+	<g>
+		<rect x="318.5" y="111.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="321" y="114" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">6938</text>
+	</g>
+	<g>
+		<rect x="57.5" y="210.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="60" y="213" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">596</text>
+	</g>
+	<g>
+		<rect x="146.5" y="161.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="149" y="164" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">3673</text>
+	</g>
+	<g>
+		<rect x="136.5" y="210.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="139" y="213" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">5663</text>
+	</g>
+	<g>
+		<rect x="126.5" y="16.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="129" y="19" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1742</text>
+	</g>
+	<g>
+		<rect x="321.5" y="283.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="324" y="286" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">659</text>
+	</g>
+	<g>
+		<rect x="321.5" y="318.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="324" y="321" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2189</text>
+	</g>
+	<g>
+		<rect x="299.5" y="319.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="302" y="322" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2175</text>
+	</g>
+	<g>
+		<rect x="247.5" y="98.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="250" y="101" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">6923</text>
+	</g>
+	<g>
+		<rect x="14.5" y="207.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="17" y="210" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">7416</text>
+	</g>
+	<g>
+		<rect x="109.5" y="47.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="112" y="50" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">6645</text>
+	</g>
+	<g>
+		<rect x="264.5" y="318.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="267" y="321" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">10459</text>
+	</g>
+	<g>
+		<rect x="33.5" y="153.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="36" y="156" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1616</text>
+	</g>
+	<g>
+		<rect x="207.5" y="318.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="210" y="321" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">406</text>
+	</g>
+	<g>
+		<rect x="238.5" y="245.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="241" y="248" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">999</text>
+	</g>
+	<g>
+		<rect x="185.5" y="355.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="188" y="358" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">6421</text>
+	</g>
+	<g>
+		<rect x="36.5" y="248.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="39" y="251" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">7290</text>
+	</g>
+	<g>
+		<rect x="150.5" y="318.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="153" y="321" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">4150</text>
+	</g>
+	<g>
+		<rect x="213.5" y="208.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="216" y="211" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1387</text>
+	</g>
+	<g>
+		<rect x="224.5" y="100.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="227" y="103" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">6921</text>
+	</g>
+	<g>
+		<rect x="172.5" y="248.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="175" y="251" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">10519</text>
+	</g>
+	<g>
+		<rect x="14.5" y="117.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="17" y="120" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">23493</text>
+	</g>
+	<g>
+		<rect x="191.5" y="210.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="194" y="213" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">7157</text>
+	</g>
+	<g>
+		<rect x="385.5" y="208.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="388" y="211" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">4035</text>
+	</g>
+	<g>
+		<rect x="93.5" y="318.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="96" y="321" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">3973</text>
+	</g>
+	<g>
+		<rect x="36.5" y="318.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="39" y="321" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2547</text>
+	</g>
+	<g>
+		<rect x="282.5" y="111.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="285" y="114" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">5934</text>
+	</g>
+	<g>
+		<rect x="51.5" y="117.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="54" y="120" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2034</text>
+	</g>
+	<g>
+		<rect x="216.5" y="247.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="219" y="250" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1499</text>
+	</g>
+	<g>
+		<rect x="204.5" y="34.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="207" y="37" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">3454</text>
+	</g>
+	<g>
+		<rect x="304.5" y="160.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="307" y="163" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">7533</text>
+	</g>
+	<g>
+		<rect x="14.5" y="170.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="17" y="173" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2113</text>
+	</g>
+	<g>
+		<rect x="35.5" y="205.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="38" y="208" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">581</text>
+	</g>
+	<g>
+		<rect x="242.5" y="355.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="245" y="358" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">8841</text>
+	</g>
+	<g>
+		<rect x="275.5" y="42.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="278" y="45" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">3929</text>
+	</g>
+	<g>
+		<rect x="236.5" y="205.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="239" y="208" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">7161</text>
+	</g>
+	<g>
+		<rect x="86.5" y="15.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="89" y="18" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1741</text>
+	</g>
+	<g>
+		<rect x="295.5" y="246.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="298" y="249" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">89780</text>
+	</g>
+	<g>
+		<rect x="92.5" y="207.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="95" y="210" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">9546</text>
+	</g>
+	<g>
+		<rect x="14.5" y="355.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="17" y="358" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">9128</text>
+	</g>
+	<g>
+		<rect x="33.5" y="167.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="36" y="170" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">113523636</text>
+	</g>
+	<g>
+		<rect x="282.5" y="161.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="285" y="164" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">994</text>
+	</g>
+	<g>
+		<rect x="339.5" y="161.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="342" y="164" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">5966</text>
+	</g>
+	<g>
+		<rect x="161.5" y="31.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="164" y="34" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">5329</text>
+	</g>
+	<g>
+		<rect x="293.5" y="207.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="296" y="210" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2316</text>
+	</g>
+	<g>
+		<rect x="264.5" y="283.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="267" y="286" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">8717</text>
+	</g>
+	<g>
+		<rect x="14.5" y="48.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="17" y="51" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">4609</text>
+	</g>
+	<g>
+		<rect x="207.5" y="283.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="210" y="286" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">5523</text>
+	</g>
+	<g>
+		<rect x="381.5" y="20.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="384" y="23" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2176</text>
+	</g>
+	<g>
+		<rect x="242.5" y="283.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="245" y="286" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">7132</text>
+	</g>
+	<g>
+		<rect x="150.5" y="283.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="153" y="286" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">472</text>
+	</g>
+	<g>
+		<rect x="168.5" y="158.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="171" y="161" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">928</text>
+	</g>
+	<g>
+		<rect x="71.5" y="319.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="74" y="322" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">821</text>
+	</g>
+	<g>
+		<rect x="317.5" y="89.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="320" y="92" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">6943</text>
+	</g>
+	<g>
+		<rect x="353.5" y="89.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="356" y="92" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">6874</text>
+	</g>
+	<g>
+		<rect x="356.5" y="283.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="359" y="286" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">3688</text>
+	</g>
+	<g>
+		<rect x="299.5" y="283.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="302" y="286" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">657</text>
+	</g>
+	<g>
+		<rect x="299.5" y="355.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="302" y="358" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">5424</text>
+	</g>
+	<g>
+		<rect x="387.5" y="247.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="390" y="250" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1439</text>
+	</g>
+	<g>
+		<rect x="93.5" y="283.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="96" y="286" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1643</text>
+	</g>
+	<g>
+		<rect x="185.5" y="283.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="188" y="286" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">990</text>
+	</g>
+	<g>
+		<rect x="273.5" y="247.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="276" y="250" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">8321</text>
+	</g>
+	<g>
+		<rect x="86.5" y="94.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="89" y="97" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">952</text>
+	</g>
+	<g>
+		<rect x="203.5" y="99.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="206" y="102" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">7428</text>
+	</g>
+	<g>
+		<rect x="144.5" y="116.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="147" y="119" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">5295</text>
+	</g>
+	<g>
+		<rect x="71.5" y="283.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="74" y="286" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1869</text>
+	</g>
+	<g>
+		<rect x="111.5" y="163.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="114" y="166" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">23645</text>
+	</g>
+	<g>
+		<rect x="68.5" y="161.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="71" y="164" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">6418</text>
+	</g>
+	<g>
+		<rect x="389.5" y="100.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="392" y="103" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">7048</text>
+	</g>
+	<g>
+		<rect x="51.5" y="48.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="54" y="51" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">4613</text>
+	</g>
+	<g>
+		<rect x="36.5" y="283.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="39" y="286" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">5587</text>
+	</g>
+	<g>
+		<rect x="14.5" y="319.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="17" y="322" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2648</text>
+	</g>
+	<g>
+		<rect x="106.5" y="25.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="109" y="28" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2066</text>
+	</g>
+	<g>
+		<rect x="242.5" y="319.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="245" y="322" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">4085</text>
+	</g>
+	<g>
+		<rect x="240.5" y="42.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="243" y="45" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2767</text>
+	</g>
+	<g>
+		<rect x="14.5" y="245.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="17" y="248" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">27247</text>
+	</g>
+	<g>
+		<rect x="310.5" y="20.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="313" y="23" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">10456</text>
+	</g>
+	<g>
+		<rect x="14.5" y="390.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="17" y="393" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">7046</text>
+	</g>
+	<g>
+		<rect x="271.5" y="208.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="274" y="211" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1813</text>
+	</g>
+	<g>
+		<rect x="115.5" y="248.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="118" y="251" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">7409</text>
+	</g>
+	<g>
+		<rect x="356.5" y="355.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="359" y="358" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">5925</text>
+	</g>
+	<g>
+		<rect x="14.5" y="283.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="17" y="286" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">695</text>
+	</g>
+	<g>
+		<rect x="282.5" y="89.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="285" y="92" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2972</text>
+	</g>
+	<g>
+		<rect x="185.5" y="319.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="188" y="322" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">196</text>
+	</g>
+	<g>
+		<rect x="71.5" y="355.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="74" y="358" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">3383</text>
+	</g>
+	<g>
+		<rect x="330.5" y="247.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="333" y="250" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2063</text>
+	</g>
+	<g>
+		<rect x="171.5" y="206.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="174" y="209" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2033</text>
+	</g>
+	<g>
+		<rect x="356.5" y="319.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="359" y="322" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">5494</text>
+	</g>
+	<g>
+		<rect x="182.5" y="28.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="185" y="31" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">7297</text>
+	</g>
+	<g>
+		<rect x="247.5" y="160.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="250" y="163" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">6833</text>
+	</g>
+	<g>
+		<rect x="275.5" y="20.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="278" y="23" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">3078</text>
+	</g>
+	<g>
+		<rect x="93.5" y="245.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="96" y="248" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">396</text>
+	</g>
+	<g>
+		<rect x="89.5" y="158.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="92" y="161" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">4297</text>
+	</g>
+	<g>
+		<rect x="181.5" y="101.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="184" y="104" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">8453</text>
+	</g>
+	<g>
+		<rect x="225.5" y="161.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="228" y="164" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">3767</text>
+	</g>
+	<g>
+		<rect x="128.5" y="319.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="131" y="322" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2186</text>
+	</g>
+	<g>
+		<rect x="114.5" y="205.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="117" y="208" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">351</text>
+	</g>
+	<g>
+		<rect x="128.5" y="283.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="131" y="286" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">162</text>
+	</g>
+	<g>
+		<rect x="328.5" y="208.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="331" y="211" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2274</text>
+	</g>
+	<g>
+		<rect x="239.5" y="20.5" width="5" height="5" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="242" y="23" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">5998</text>
+	</g>
+</svg>

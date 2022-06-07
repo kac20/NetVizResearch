@@ -54,10 +54,10 @@ RM = /Applications/CMake.app/Contents/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/kchui/Desktop/DataVizResearch/graph-experiments
+CMAKE_SOURCE_DIR = /Users/kchui/Desktop/DataVizResearch/NetVizResearch/graph-experiments
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/kchui/Desktop/DataVizResearch/graph-experiments
+CMAKE_BINARY_DIR = /Users/kchui/Desktop/DataVizResearch/NetVizResearch/graph-experiments
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -81,14 +81,14 @@ clean: CMakeFiles/graph_viz_experiments.dir/clean
 CMakeFiles/graph_viz_experiments.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/graph_viz_experiments.dir/build.make CMakeFiles/graph_viz_experiments.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/graph_viz_experiments.dir/build.make CMakeFiles/graph_viz_experiments.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/kchui/Desktop/DataVizResearch/graph-experiments/CMakeFiles --progress-num=1,2 "Built target graph_viz_experiments"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/kchui/Desktop/DataVizResearch/NetVizResearch/graph-experiments/CMakeFiles --progress-num=1,2 "Built target graph_viz_experiments"
 .PHONY : CMakeFiles/graph_viz_experiments.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/graph_viz_experiments.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/kchui/Desktop/DataVizResearch/graph-experiments/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/kchui/Desktop/DataVizResearch/NetVizResearch/graph-experiments/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/graph_viz_experiments.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/kchui/Desktop/DataVizResearch/graph-experiments/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/kchui/Desktop/DataVizResearch/NetVizResearch/graph-experiments/CMakeFiles 0
 .PHONY : CMakeFiles/graph_viz_experiments.dir/rule
 
 # Convenience name for target.

@@ -8,7 +8,7 @@
 
  
 #include <ogdf/basic/PreprocessorLayout.h>
-// #include <ogdf/energybased/FastMultipoleEmbedder.h>
+#include <ogdf/energybased/FastMultipoleEmbedder.h>
 // #include <ogdf/energybased/GEMLayout.h>
 // #include <ogdf/energybased/NodeRespecterLayout.h>
 // #include <ogdf/energybased/PivotMDS.h>
@@ -129,7 +129,7 @@ int main(int argc, const char *argv[])
             // gl->setRandomize(false);
     
     // Use GEM layout for the single level layout
-    SpringEmbedderGridVariant *gl = new SpringEmbedderGridVariant();
+    FastMultipoleEmbedder *gl = new FastMultipoleEmbedder();
  
     // To minimize dispersion of the graph when more nodes are added, a
     // ScalingLayout can be used to scale up the graph on each level.
@@ -181,7 +181,7 @@ int main(int argc, const char *argv[])
     // GraphAttributes and written to disk.
     mlg.exportAttributes(ga);
     // GraphIO::write(ga, "output-multilevelmixer-" + std::string(argv[1]) + ".gml", GraphIO::writeGML);
-    GraphIO::write(ga, "SpringEmbedderGridVariant-" + std::string(argv[2]) + ".svg", GraphIO::drawSVG);
+    GraphIO::write(ga, "FastMultipoleEmbedder-" + std::string(argv[2]) + ".svg", GraphIO::drawSVG);
  
     return 0;
 }

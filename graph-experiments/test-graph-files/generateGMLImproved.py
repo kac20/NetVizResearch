@@ -3,22 +3,29 @@ import math
 import os
 import matplotlib.pyplot as plt
 import networkx as nx
+import random
 
-def generateGMLFileImproved(inputFileName, clusterSizeThreshold, showTestingInfo = False):
+def generateGMLFileImproved(inputFileName, percentOfGraph, clusterSizeThreshold, showTestingInfo = False):
     os.chdir(os.path.dirname(os.path.abspath(__file__))+"/test-graph-data")
     
     #Read the graph
     G = nx.read_edgelist(path = inputFileName, nodetype = int, data = (("weight", float),))
 
+
+    #Take a percent of the graph
+    G = takePercentOfGraph(G, percentOfGraph)
+
+
     #Remove clusters below the threshold
-    G =removeSmallClusters(G, clusterSizeThreshold)
+    G = removeSmallClusters(G, clusterSizeThreshold)
 
     if showTestingInfo:
         runGraphDiagnostics(G)
 
+
      #Write the graph to output file
     os.chdir("../test-graph-GML-files")
-    outputFilePath = (inputFileName[:-4] + "_cluserSize:" + str(clusterSizeThreshold))
+    outputFilePath = (inputFileName[:-4] + str(int(percentOfGraph*100))  +"_cluser_" + str(clusterSizeThreshold)+".gml")
     nx.write_gml(G, outputFilePath, stringizer=None)
    
     
@@ -29,6 +36,14 @@ def removeSmallClusters(G, clusterSizeThreshold):
             for node in component:
                 G.remove_node(node)
     return G
+
+
+def takePercentOfGraph(G, percent):
+    node_count = math.floor(len(G.nodes())*percent)
+    nodes =  random.sample(G.nodes(), node_count)
+    subgraph = G.subgraph(nodes)
+
+    return nx.Graph(subgraph)
 
 def runGraphDiagnostics(G):
     #Plot degree histogram
@@ -48,4 +63,6 @@ def runGraphDiagnostics(G):
 
 
 # GENERATING THE GRAPH
-generateGMLFileImproved("mips.txt", clusterSizeThreshold = 20, showTestingInfo = False)
+generateGMLFileImproved("mips.txt", percentOfGraph = 1, clusterSizeThreshold = 4, showTestingInfo = False)
+generateGMLFileImproved("hippie.txt", percentOfGraph = .2, clusterSizeThreshold = 10, showTestingInfo = False)
+

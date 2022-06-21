@@ -9,9 +9,9 @@
  
 #include <ogdf/basic/PreprocessorLayout.h>
 #include <ogdf/energybased/FastMultipoleEmbedder.h>
-// #include <ogdf/energybased/GEMLayout.h>
-// #include <ogdf/energybased/NodeRespecterLayout.h>
-// #include <ogdf/energybased/PivotMDS.h>
+#include <ogdf/energybased/GEMLayout.h>
+#include <ogdf/energybased/NodeRespecterLayout.h>
+#include <ogdf/energybased/PivotMDS.h>
 #include <ogdf/energybased/SpringEmbedderGridVariant.h>
 
 #include <ogdf/energybased/multilevel_mixer/BarycenterPlacer.h>
@@ -109,6 +109,8 @@ int main(int argc, const char *argv[])
     filepath.append(std::string(argv[2]));
     filepath.append(".gml");
 
+    std::cout << filepath;
+
     if (!GraphIO::read(ga, g, filepath, GraphIO::readGML)) {
         std::cerr << "Could not load Graph" << std::endl;
         return 1;
@@ -129,7 +131,7 @@ int main(int argc, const char *argv[])
             // gl->setRandomize(false);
     
     // Use GEM layout for the single level layout
-    FastMultipoleEmbedder *gl = new FastMultipoleEmbedder();
+    NodeRespecterLayout *gl = new NodeRespecterLayout();
  
     // To minimize dispersion of the graph when more nodes are added, a
     // ScalingLayout can be used to scale up the graph on each level.
@@ -181,7 +183,7 @@ int main(int argc, const char *argv[])
     // GraphAttributes and written to disk.
     mlg.exportAttributes(ga);
     // GraphIO::write(ga, "output-multilevelmixer-" + std::string(argv[1]) + ".gml", GraphIO::writeGML);
-    GraphIO::write(ga, "FastMultipoleEmbedder-" + std::string(argv[2]) + ".svg", GraphIO::drawSVG);
+    GraphIO::write(ga, "NodeRespecterLayout-" + std::string(argv[2]) + ".svg", GraphIO::drawSVG);
  
     return 0;
 }

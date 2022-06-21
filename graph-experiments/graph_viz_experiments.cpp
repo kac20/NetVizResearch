@@ -10,7 +10,7 @@ int main()
     // READ THE INPUT GRAPH
     Graph G;
     GraphAttributes GA(G);
-    if (!GraphIO::read(GA, G, "./test-graph-files/test-graph-GML-files/mips.gml", GraphIO::readGML)) {
+    if (!GraphIO::read(GA, G, "./test-graph-files/test-graph-GML-files/mips100_cluser_4.gml", GraphIO::readGML)) {
         std::cerr << "Could not load graph file" << std::endl;
         return 1;
     }
@@ -30,7 +30,7 @@ int main()
 
     // OUTPUT RESULTS
     // GraphIO::write(GA, "FMMM-mips_10.gml", GraphIO::writeGML);
-    GraphIO::write(GA, "FMMM-mips.svg", GraphIO::drawSVG);
+    GraphIO::write(GA, "FMMM-mips4.svg", GraphIO::drawSVG);
  
     return 0;
 }

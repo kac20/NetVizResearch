@@ -77,5 +77,6 @@ def runGraphDiagnostics(G):
 # GENERATING THE GRAPH
 # generateGMLFileImproved("mips.txt", percentOfGraph = 1, clusterSizeThreshold = 4, showTestingInfo = False)
 # generateGMLFileImproved("hippie.txt", percentOfGraph = .2, clusterSizeThreshold = 10, showTestingInfo = False)
-generateGMLFileImproved("mips.txt", percentOfGraph = 1, clusterSizeThreshold = 2, showTestingInfo = False)
+# generateGMLFileImproved("mips.txt", percentOfGraph = 1, clusterSizeThreshold = 2, showTestingInfo = False)
 
+generateGMLFileImproved("test.txt", percentOfGraph = 1, clusterSizeThreshold = 0, showTestingInfo = False)

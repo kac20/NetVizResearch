@@ -1,0 +1,3 @@
+/Users/kchui/Desktop/DataVizResearch/NetVizResearch/layout_scores/CMakeFiles/layout.dir
+/Users/kchui/Desktop/DataVizResearch/NetVizResearch/layout_scores/CMakeFiles/edit_cache.dir
+/Users/kchui/Desktop/DataVizResearch/NetVizResearch/layout_scores/CMakeFiles/rebuild_cache.dir

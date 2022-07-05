@@ -10,7 +10,7 @@ int main()
     // READ THE INPUT GRAPH
     Graph G;
     GraphAttributes GA(G);
-    if (!GraphIO::read(GA, G, "./test-graph-files/test-graph-GML-files/mips100_cluser_4.gml", GraphIO::readGML)) {
+    if (!GraphIO::read(GA, G, "./test-graph-files/test-graph-GML-files/test.gml", GraphIO::readGML)) {
         std::cerr << "Could not load graph file" << std::endl;
         return 1;
     }

@@ -1,0 +1,23 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/kchui/Desktop/DataVizResearch/NetVizResearch/layout_scores'
+/Applications/CMake.app/Contents/bin/cmake -S/Users/kchui/Desktop/DataVizResearch/NetVizResearch/layout_scores -B/Users/kchui/Desktop/DataVizResearch/NetVizResearch/layout_scores --check-build-system CMakeFiles/Makefile.cmake 0
+/Applications/CMake.app/Contents/bin/cmake -E cmake_progress_start /Users/kchui/Desktop/DataVizResearch/NetVizResearch/layout_scores/CMakeFiles /Users/kchui/Desktop/DataVizResearch/NetVizResearch/layout_scores//CMakeFiles/progress.marks
+/Library/Developer/CommandLineTools/usr/bin/make -s -f CMakeFiles/Makefile2 all
+make[1]: Entering directory `/Users/kchui/Desktop/DataVizResearch/NetVizResearch/layout_scores'
+/Library/Developer/CommandLineTools/usr/bin/make -s -f CMakeFiles/layout.dir/build.make CMakeFiles/layout.dir/depend
+make[2]: Entering directory `/Users/kchui/Desktop/DataVizResearch/NetVizResearch/layout_scores'
+cd /Users/kchui/Desktop/DataVizResearch/NetVizResearch/layout_scores && /Applications/CMake.app/Contents/bin/cmake -E cmake_depends "Unix Makefiles" /Users/kchui/Desktop/DataVizResearch/NetVizResearch/layout_scores /Users/kchui/Desktop/DataVizResearch/NetVizResearch/layout_scores /Users/kchui/Desktop/DataVizResearch/NetVizResearch/layout_scores /Users/kchui/Desktop/DataVizResearch/NetVizResearch/layout_scores /Users/kchui/Desktop/DataVizResearch/NetVizResearch/layout_scores/CMakeFiles/layout.dir/DependInfo.cmake --color=
+make[2]: Leaving directory `/Users/kchui/Desktop/DataVizResearch/NetVizResearch/layout_scores'
+/Library/Developer/CommandLineTools/usr/bin/make -s -f CMakeFiles/layout.dir/build.make CMakeFiles/layout.dir/build
+ 
+make[2]: Entering directory `/Users/kchui/Desktop/DataVizResearch/NetVizResearch/layout_scores'
+/Applications/CMake.app/Contents/bin/cmake -E cmake_echo_color --switch= --green --progress-dir=/Users/kchui/Desktop/DataVizResearch/NetVizResearch/layout_scores/CMakeFiles --progress-num=1 "Building CXX object CMakeFiles/layout.dir/LayoutScore.cpp.o"
+/Library/Developer/CommandLineTools/usr/bin/c++  -isystem /Users/kchui/Desktop/DataVizResearch/OGDF/include -isystem /Users/kchui/Desktop/DataVizResearch/OGDF/include/coin -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++11 -MD -MT CMakeFiles/layout.dir/LayoutScore.cpp.o -MF CMakeFiles/layout.dir/LayoutScore.cpp.o.d -o CMakeFiles/layout.dir/LayoutScore.cpp.o -c /Users/kchui/Desktop/DataVizResearch/NetVizResearch/layout_scores/LayoutScore.cpp
+/Applications/CMake.app/Contents/bin/cmake -E cmake_echo_color --switch= --green --bold --progress-dir=/Users/kchui/Desktop/DataVizResearch/NetVizResearch/layout_scores/CMakeFiles --progress-num=2 "Linking CXX executable layout"
+/Applications/CMake.app/Contents/bin/cmake -E cmake_link_script CMakeFiles/layout.dir/link.txt --verbose=
+make[2]: Leaving directory `/Users/kchui/Desktop/DataVizResearch/NetVizResearch/layout_scores'
+/Applications/CMake.app/Contents/bin/cmake -E cmake_echo_color --switch= --progress-dir=/Users/kchui/Desktop/DataVizResearch/NetVizResearch/layout_scores/CMakeFiles --progress-num=1,2 "Built target layout"
+make[1]: Leaving directory `/Users/kchui/Desktop/DataVizResearch/NetVizResearch/layout_scores'
+/Applications/CMake.app/Contents/bin/cmake -E cmake_progress_start /Users/kchui/Desktop/DataVizResearch/NetVizResearch/layout_scores/CMakeFiles 0
+make: Leaving directory `/Users/kchui/Desktop/DataVizResearch/NetVizResearch/layout_scores'
+ 

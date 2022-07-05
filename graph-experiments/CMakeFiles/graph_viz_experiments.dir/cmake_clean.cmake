@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/graph_viz_experiments.dir/graph_viz_experiments.cpp.o"
-  "CMakeFiles/graph_viz_experiments.dir/graph_viz_experiments.cpp.o.d"
+  "CMakeFiles/graph_viz_experiments.dir/LayoutScore.cpp.o"
+  "CMakeFiles/graph_viz_experiments.dir/LayoutScore.cpp.o.d"
   "graph_viz_experiments"
   "graph_viz_experiments.pdb"
 )
